@@ -1,0 +1,13 @@
+# Hi, I'm Jacob Nash
+
+I'm in my final semester of earning my BS in Computer Science from the College of Charleston, where I will graduate this December _Summa cum laude_. 
+
+
+
+- 👀 I’m interested in ...
+
+- 🌱 I’m currently learning ...
+
+- 💞️ I’m looking to collaborate on ...
+
+- 📫 How to reach me ...
